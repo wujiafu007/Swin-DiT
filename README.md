@@ -1,2 +1,1 @@
-# Swin-DiT
-## Coming soon
+# Coming soon
